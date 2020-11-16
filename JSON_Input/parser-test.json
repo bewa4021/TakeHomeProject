@@ -1,0 +1,16 @@
+{
+  "search": {
+    "startDate": "2018-06-03",
+    "endDate": "2018-06-03"
+  },
+  "campsites": [
+    {
+      "id": 1,
+      "name": "Cozy Cabin"
+    }
+  ],
+  "reservations": [
+    {"campsiteId": 1, "startDate": "2018-06-01", "endDate": "2018-06-01"},
+    {"campsiteId": 1, "startDate": "2018-06-02", "endDate": "2018-06-02"}
+  ]
+}
