@@ -16,7 +16,7 @@
 - Run the Main.java file within the `TakeHomeChallenge` Package
 - Configure the Program Arguments to be `"JSON_Input/test-case.json"`
 
-Note: I ran this project on two different machines, but that does not guarantee it will work for everyone. Please reach out with questions at `Benjamin.Wasko@colorado.edu`.
+Note: To run different JSON files add them to the `JSON_Input` folder and change the args to be `args="JSON_Input/YourTestCase.json"`. I ran this project on two different machines, but that does not guarantee it will work for everyone. Please reach out with questions at `Benjamin.Wasko@colorado.edu`.
 
 ## High Level Description:
 
